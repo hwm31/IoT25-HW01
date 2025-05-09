@@ -5,6 +5,8 @@
 ## 1. Arduino IDE Configuration
 Below is a screenshot of the Arduino IDE showing the selected ESP32 board and port:
 
+<img width="766" alt="스크린샷 2025-05-10 오전 12 04 31" src="https://github.com/user-attachments/assets/0a6c732f-138b-42d5-8da0-320d348f2891" />
+
 <img width="1092" alt="스크린샷 2025-05-10 오전 12 42 16" src="https://github.com/user-attachments/assets/f3986749-1a74-456a-a1cf-12f3d8006b78" />
 
 
