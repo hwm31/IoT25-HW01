@@ -1,6 +1,7 @@
 # IoT25-HW01
 202334484 손인화
 
+
 ## 1. Arduino IDE Configuration
 Below is a screenshot of the Arduino IDE showing the selected ESP32 board and port:
 
@@ -10,3 +11,4 @@ Below is a screenshot of the Arduino IDE showing the selected ESP32 board and po
 
 ## 2. ESP32 Blinking LED
 Below is the ESP32 board with the blinking LED:
+![IMG_7452](https://github.com/user-attachments/assets/a2421958-d4c8-4dae-9b61-0e31d7113896)
