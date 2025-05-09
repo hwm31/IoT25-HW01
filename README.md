@@ -5,11 +5,11 @@
 ## 1. Arduino IDE Configuration
 Below is a screenshot of the Arduino IDE showing the selected ESP32 board and port:
 
-<img width="1092" alt="스크린샷 2025-05-09 오후 11 22 31" src="https://github.com/user-attachments/assets/1f64aafe-4e00-4e69-9c2d-62d6f43b3e12" />
-<img width="766" alt="스크린샷 2025-05-09 오후 11 22 44" src="https://github.com/user-attachments/assets/bb6c255b-b191-4bc5-9237-e34deb027e26" />
+<img width="1092" alt="스크린샷 2025-05-10 오전 12 42 16" src="https://github.com/user-attachments/assets/f3986749-1a74-456a-a1cf-12f3d8006b78" />
 
 
 ## 2. ESP32 Blinking LED
 Below is the ESP32 board with the blinking LED:
 
-![IMG_7452](https://github.com/user-attachments/assets/a2421958-d4c8-4dae-9b61-0e31d7113896)
+![IMG_7456](https://github.com/user-attachments/assets/1902595c-207a-4756-a61a-ea862a9e19b6)
+
